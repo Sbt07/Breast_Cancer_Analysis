@@ -1,9 +1,3 @@
-# Breast_Cancer_Analysis
-
-Certainly! Here's a README file for your provided code:
-
----
-
 # Breast Cancer Classification using Logistic Regression
 
 This project uses the Breast Cancer Wisconsin (Diagnostic) dataset to build a machine learning model for classifying breast tumors as benign or malignant. We use logistic regression as the classification algorithm.
